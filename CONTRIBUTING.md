@@ -18,7 +18,7 @@ Thank you for considering contributing to the **QuVA** library! We welcome contr
 
    ```sh
    git clone https://github.com/Qubix-Network/QuVA.git
-   cd Vyer-Validation
+   cd QuVa
    ```
 
 3. Create a Branch: Create a new branch for your feature or fix.

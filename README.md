@@ -67,7 +67,7 @@ The `createValidator` function is a utility designed to facilitate the creation 
 
 **Returns**
 
-- `validate`: A boolean value indicating whether the object passed all validation rules (true if valid, false otherwise).
+- `check`: A boolean value indicating whether the object passed all validation rules (true if valid, false otherwise).
 - `errors`: A function returning detailed error messages for each property that failed validation.
 
 ### Built-in Validators
